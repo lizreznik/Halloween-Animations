@@ -86,3 +86,19 @@ body {
     width: 10px; 
     height: 10px; 
 }
+#spooky #body #feet { 
+    position: absolute; 
+    display: flex; 
+    bottom: -18px; 
+    width: 180px; 
+    height: 36px; 
+}
+#spooky #body #feet > *,
+#spooky #body #feet::before, 
+#spooky #body #feet::after { 
+    content: ' '; 
+    width: 36px; 
+    height: 36px; 
+    background: #f2fbf1; 
+    border-radius: 50%; 
+}
