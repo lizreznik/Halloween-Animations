@@ -1,0 +1,22 @@
+body { 
+    overflow: hidden; 
+    height: 100vh; 
+    width: 100vw; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    margin: 0; 
+    background: #424f6f; 
+}
+
+#conatiner { 
+    width: 400px; 
+    height: 400px; 
+    padding: 0; 
+    box-sizing: border-box; 
+    background: #424f6f; 
+}
+*:after, 
+*:before { 
+    box-sizing: inherit; 
+}
