@@ -2,7 +2,7 @@ html,
 body {
     width: 100%;
     height: 100%;
-    background: radial-gradient(ellipse at center, #160909 0%,#160909 45%,#291111 100%);
+    background-image: url("pngtree-halloween-wallpapers-and-backgrounds-for-laptop-or-desktop-picture-image_3712599.jpg");
     display: flex;
     justify-content: center;
     align-items: center;
@@ -137,7 +137,7 @@ body {
   }
   .shadow {
     margin: 10% auto 0;
-    background: #000;
+    background: #8d8888;
     width: 230px;
     height: 50px;
     border-radius: 50%;
