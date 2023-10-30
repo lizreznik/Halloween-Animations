@@ -25,6 +25,11 @@ body {
     z-index: 1;
     animation: float 3s infinite;
 }
+.pumpkin:hover{ 
+  background: #ff670f;
+  transition: 0.5s; 
+  box-shadow: inset 0 0px 20px #ff0000, 0 0 30px -4px #f68632;
+}
 
 .pumpkin .texture {
     height: 10.8em;
